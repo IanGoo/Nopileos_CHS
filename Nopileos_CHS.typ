@@ -7,8 +7,6 @@
 //样式设定
 //主要文本
 #set text(font: ("Times New Roman", "SimSun"))
-//关闭智能引号
-#set smartquote(enabled: false)
 //引文样式
 #set quote(block: true)
 #show quote: set text(font: ("Times New Roman", "KaiTi"))
